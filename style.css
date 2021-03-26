@@ -1,0 +1,17 @@
+ #showPara1, #showPara2 {
+     width:100%;
+     margin:10px;
+ }
+#paraOneLeft {
+    float: left;
+}
+#paraTwoRight {
+    float: right;
+}
+div {
+    margin:10px;
+    width:49%;
+}
+body {
+    background-color:midnightblue;
+}
